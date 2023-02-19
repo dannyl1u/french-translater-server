@@ -1,7 +1,7 @@
 # flask-api-french-translator
 
 ## Prerequisites
-Node server already set up.
+This requires that the node-server is already set up.
 https://github.com/dannyl1u/node-server
 
 ## Setup
