@@ -107,12 +107,7 @@ https://github.com/dannyl1u/french-translator-server
    $ python api.py
    ```
    
-5. Run the server
-
-   ```bash
-   $ python api.py
-   ```
    
-Server should now be up at [http://localhost:8000](http://localhost:8000)
+# Server should now be up at [http://localhost:8000](http://localhost:8000)
 
-All done. Head back to the user app at [http://localhost:5000](http://localhost:5000) and generate your pet name!
+## All done. Head back to the user app at [http://localhost:5000](http://localhost:5000) and generate your pet name!
