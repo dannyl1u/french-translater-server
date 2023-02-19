@@ -16,6 +16,8 @@ https://github.com/dannyl1u/node-server
    ```bash
    $ pip install Flask
    # we might need to replace pip with pip3
+   # this also requires that pip is installed
+   $ pip --version
    ```
 
 3. Run the server
