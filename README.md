@@ -78,10 +78,11 @@ Server should now be up at [http://localhost:8080](http://localhost:8080)
 
 # French translater Server
 https://github.com/dannyl1u/french-translator-server
-1. Clone the repository
+1. Clone the repository and navigate to the directory
 
    ```bash
    $ git clone https://github.com/dannyl1u/french-translator-server.git
+   $ cd french-translator-server
    ```
 
 2. Ensure python is installed.
@@ -112,4 +113,4 @@ https://github.com/dannyl1u/french-translator-server
    
 Server should now be up at [http://localhost:8000](http://localhost:8000)
 
-10. All done. Generate your pet name!
+All done. Head back to the user app at [http://localhost:5000](http://localhost:5000) and generate your pet name!
