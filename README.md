@@ -50,7 +50,7 @@ You should now be able to access the app at [http://localhost:5000](http://local
 Node Server
 https://github.com/dannyl1u/node-server
 
-1. Clone the repo. 
+1. Clone the repository
 
    ```bash
    $ git clone https://github.com/dannyl1u/node-api.git
@@ -78,12 +78,18 @@ Server should now be up at [http://localhost:8080](http://localhost:8080)
 
 # French translater Server
 https://github.com/dannyl1u/french-translator-server
-1. Ensure python is installed.
+1. Clone the repository
+
+   ```bash
+   $ git clone https://github.com/dannyl1u/french-translator-server.git
+   ```
+
+2. Ensure python is installed.
 
    ```bash
    $ python --version
    ```
-2. Install flask
+3. Install flask
 
    ```bash
    $ pip install Flask
@@ -92,13 +98,13 @@ https://github.com/dannyl1u/french-translator-server
    $ pip --version
    ```
 
-3. Run the server
+4. Run the server
 
    ```bash
    $ python api.py
    ```
    
-4. Run the server
+5. Run the server
 
    ```bash
    $ python api.py
