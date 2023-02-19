@@ -11,17 +11,24 @@ https://github.com/dannyl1u/node-server
    ```bash
    $ python --version
    ```
-2. Run the server
+2. Install flask
 
    ```bash
-   $ python api.py
+   $ pip install Flask
+   # we might need to replace pip with pip3
    ```
-   
+
 3. Run the server
 
    ```bash
    $ python api.py
    ```
    
-Server should now be up at [http://localhost:8000](http://localhost:8000)! 
+4. Run the server
+
+   ```bash
+   $ python api.py
+   ```
+   
+Server should now be up at [http://localhost:8000](http://localhost:8000)
 
